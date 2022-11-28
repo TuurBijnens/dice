@@ -4,17 +4,17 @@
         # # # # # 
         . # # # . 
         # # # # #
-        `</field><next><block type="device_print_message" id="7aJX:9$MyFI+LHOwyP#7"><value name="text"><shadow type="text" id="40k.8!d^Agi3X]|%8zH8"><field name="TEXT">schud</field></shadow></value></block></next></block></next></block></statement></block><block type="device_button_event" id="SbF011EmQ3W,L;1M;-?:" x="597" y="-153"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_show_leds" id="Wpb-J)zQ_Fe}7)54xyXe"><field name="LEDS">`
+        `</field><next><block type="device_print_message" id="7aJX:9$MyFI+LHOwyP#7"><value name="text"><shadow type="text" id="40k.8!d^Agi3X]|%8zH8"><field name="TEXT">schud</field></shadow></value></block></next></block></next></block></statement></block><block type="device_button_event" id="SbF011EmQ3W,L;1M;-?:" x="597" y="-153"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_show_leds" id="|OElu@9;dS{MQwZ0C;N^"><field name="LEDS">`
+        . # . # . 
         # . # . # 
-        . . # . . 
-        # # # # # 
-        # . . . # 
-        # . . . #
-        `</field><next><block type="device_show_leds" id="jw~lgcT!~+Esf2@XVOe("><field name="LEDS">`
-        # . . . # 
-        # . . . # 
-        # # # # # 
-        . . # . . 
+        . # . # . 
+        # . # . # 
+        . # . # .
+        `</field><next><block type="device_show_leds" id="oN1`PSa:pZ+GWD*AB4/2"><field name="LEDS">`
+        # . # . # 
+        . # . # . 
+        # . # . # 
+        . # . # . 
         # . # . #
         `</field></block></next></block></statement></block><block type="input_on_sound" id="Il9P1djMnN7E[Bw`_OmA" x="299" y="-131"><field name="sound">DetectedSound.Loud</field><statement name="HANDLER"><block type="device_print_message" id="jkzTTroL*]B2/mG^^MPP"><value name="text"><shadow type="text" id="(jM-q|if|~LN:Za8#hkc"><field name="TEXT">Hello!</field></shadow><block type="device_temperature" id="o_I,%3o:l#TqKeBqn4.#"></block></value></block></statement></block><block type="device_gesture_event" id="1UF{gxRTrW1CFTf1|A~U" x="0" y="0"><field name="NAME">Gesture.Shake</field><statement name="HANDLER"><block type="device_print_message" id="RA9MG22+TpXp$KxCk:o!"><value name="text"><shadow type="text" id="1V#JG$2^EY_$1cN$1rC|"><field name="TEXT">goed gedaan</field></shadow></value><next><block type="device_show_leds" id="B=ti+$4Qyx9i]ngeZ5z="><field name="LEDS">`
         . . . . . 
